@@ -19,9 +19,3 @@ else:
     apiKey = input("Add Key here: ") 
     os.system("setx OPENAI_API_KEY " + apiKey)
 
-# print("No Api key detected, PLease add a valid openAI key.")
-
-# 
-
-
-# print(completion.choices[0].message)
