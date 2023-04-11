@@ -1,4 +1,4 @@
-# myGPT-py
+# myGPT-cli
 
 This is a very simple command line application to get chat completions from OpenAI's `gpt-3.5-turbo` model
 
